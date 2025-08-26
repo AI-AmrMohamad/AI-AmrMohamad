@@ -5,13 +5,14 @@
 
 <!-- Dynamic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:2196F3,100:21CBF3&height=200&section=header&text=Hi,%20I'm%20Amr%20Mohamad%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0FB7C0,100:34E7F8&height=220&section=header&text=Hi,%20I'm%20Amr%20Mohamad%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Animated Roles -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Applied+Data+Scientist;AI+Engineer;Competitive+Programmer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0C86B9&center=true&vCenter=true&width=500&lines=Applied+Data+Scientist;AI+Engineer;Competitive+Programmer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 
 <!-- Fun Stats -->
 <p align="center">
